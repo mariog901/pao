@@ -1,4 +1,4 @@
-package org.example;
+    package lab2_tema;
 
 //1. Implementati o aplicatie Java in care:
 //        a) cititi de la tastatura un numar intreg n cuprins intre [0, 5].
