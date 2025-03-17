@@ -1,5 +1,19 @@
 package lab2_tema;
 
+// 2. Implementati o aplicatie Java in care:
+// a) creati 2 tablouri unidimensionale de lungimi diferite, cu cate cel putin 5 elemente intregi.
+// b) implementati o metoda de sortare in ordine crescatoare a elementelor fiecarui tablou creat anterior.
+// Nota: se va folosi o implementare proprie, nu pe cea din clasa Arrays.
+// c) creati si afisati la consola un al treilea tablou in care veti insera in ordine crescatoare toate elementele din primele 2 tablouri.
+// Pentru eficienta si complexitate de timp liniara, utilizati o tehnica de implementare cu 2 pointeri (cate unul pt elementele fiecarui tablou initial).
+// exemplu:
+//    Array1 initial: [1, 7, 4, 3, 9, 1]
+//    Array1 sortat crescator: [1, 1, 3, 4, 7, 9]
+//    Array2 initial: [6, 4, 2, 8]
+//    Array2 sortat crescator: [2, 4, 6, 8]
+//    Output: [1, 1, 2, 3, 4, 4, 6, 7, 8, 9]
+
+
 import java.util.Scanner;
 import java.util.Arrays;
 
