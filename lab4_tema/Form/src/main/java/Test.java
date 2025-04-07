@@ -1,3 +1,5 @@
+package org.Form;
+
 public class Test {
     public static void main(String[] args) {
         Form[] forms=new Form[5];
